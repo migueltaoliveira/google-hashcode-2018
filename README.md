@@ -1,2 +1,2 @@
 # google-hashcode-2018
-Team Pepes | 
+Code for the Google #Hash Code 2018 of our Team Pepes (43833066 points)
